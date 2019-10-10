@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.zzr.spring.boot.starter.hivemq.conf.HiveMqAutoConfiguration
